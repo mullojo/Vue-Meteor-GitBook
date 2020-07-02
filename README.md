@@ -1,21 +1,26 @@
 ---
 description: >-
-  This guide covers the most common & supported methods for using Vue.js with
-  Meteor.js
+  Installing Meteor is the first step because Meteor will install Node.js and
+  Mongo DB for you on your local machine.
 ---
 
-# Vue + Meteor
+# Install Meteor
 
+## Run Meteor Install Command
 
+Open Terminal and run this command to install the latest version of Meteor
 
-![](.gitbook/assets/image%20%283%29.png)
+```bash
+curl https://install.meteor.com/ | sh
+```
 
-| Project | GitHub Repos |
-| :--- | :--- |
-| Meteor | [https://github.com/meteor/meteor](https://github.com/meteor/meteor) |
-| Vue | [https://github.com/vuejs/vue](https://github.com/vuejs/vue) |
-| Vue + Meteor Integration Packages | [https://github.com/meteor-vue/vue-meteor](https://github.com/meteor-vue/vue-meteor) |
-| MongoDB | [https://github.com/mongodb/mongo](https://github.com/mongodb/mongo) |
+Create a new Meteor app with any name, replace `my-new-app` with the name of your app
+
+```bash
+meteor create my-new-app
+```
+
+Or add the `--vue` command to create a Meteor app with Vue packages \(saves some time on future steps\)
 
 
 
