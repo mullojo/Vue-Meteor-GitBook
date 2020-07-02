@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Vue + Meteor](README.md)
-* [Introduction](introduction.md)
 * [Install Meteor](install-meteor.md)
 * [Create Meteor App](create-meteor-app.md)
 * [Register A Domain Name](register-a-domain-name.md)
