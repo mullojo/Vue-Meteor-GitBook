@@ -12,12 +12,12 @@ Several very popular open source projects are combined to create Meteor and to t
 
 Several core projects are combined to make a Vue + Meteor full-stack, and to a new developer, Meteor handles all of this for you, but it's important to learn about each of these parts.
 
-| Project | GitHub Repos |
-| :--- | :--- |
-| Meteor | [https://github.com/meteor/meteor](https://github.com/meteor/meteor) |
-| Vue | [https://github.com/vuejs/vue](https://github.com/vuejs/vue) |
-| Vue + Meteor Integration Packages | [https://github.com/meteor-vue/vue-meteor](https://github.com/meteor-vue/vue-meteor) |
-| MongoDB | [https://github.com/mongodb/mongo](https://github.com/mongodb/mongo) |
+| Project | GitHub Repos | Info |
+| :--- | :--- | :--- |
+| Meteor | [https://github.com/meteor/meteor](https://github.com/meteor/meteor) | Docs & Guide |
+| Vue | [https://github.com/vuejs/vue](https://github.com/vuejs/vue) | Docs |
+| Vue + Meteor Integration Packages | [https://github.com/meteor-vue/vue-meteor](https://github.com/meteor-vue/vue-meteor) | Repo |
+| MongoDB | [https://github.com/mongodb/mongo](https://github.com/mongodb/mongo) | [Manual](https://docs.mongodb.com/manual/) |
 
 Meteor has had the most evolution since it's creation, so it is sometimes not clear to new users why Meteor is the right choice for new app development.  We'll reveal why this is true throughout this guide.
 
