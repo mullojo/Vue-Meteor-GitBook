@@ -14,7 +14,7 @@ Several core projects are combined to make a Vue + Meteor full-stack, and to a n
 
 | Project | GitHub Repositories | Docs |
 | :--- | :--- | :--- |
-| Meteor | [https://github.com/meteor/meteor](https://github.com/meteor/meteor) | [Docs](https://docs.meteor.com/) & [Guides](https://guide.meteor.com/) |
+| Meteor | [https://github.com/meteor/meteor](https://github.com/meteor/meteor) | [Docs](https://docs.meteor.com/) + [Guides](https://guide.meteor.com/) |
 | Vue | [https://github.com/vuejs/vue](https://github.com/vuejs/vue) | [Guide](https://vuejs.org/v2/guide/) |
 | Vue + Meteor Integration Packages | [https://github.com/meteor-vue/vue-meteor](https://github.com/meteor-vue/vue-meteor) | [Repo](https://github.com/meteor-vue/vue-meteor) |
 | MongoDB | [https://github.com/mongodb/mongo](https://github.com/mongodb/mongo) | [Manual](https://docs.mongodb.com/manual/) |
