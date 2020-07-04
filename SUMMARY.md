@@ -4,10 +4,10 @@
 
 ## Setup
 
-* [Untitled](setup/untitled.md)
+* [Install Meteor](setup/install-meteor.md)
+* [Choices](setup/untitled.md)
 
 ---
 
-* [Install Meteor](install-meteor.md)
 * [WebApp for Webhooks](webapp-for-webhooks.md)
 
