@@ -1,6 +1,13 @@
 # Table of contents
 
-* [Vue + Meteor](README.md)
+* [Vue + Meteor GitBook](README.md)
+
+## Setup
+
+* [Untitled](setup/untitled.md)
+
+---
+
 * [Install Meteor](install-meteor.md)
 * [WebApp for Webhooks](webapp-for-webhooks.md)
 

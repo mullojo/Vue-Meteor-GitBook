@@ -4,7 +4,7 @@ description: >-
   Meteor.js
 ---
 
-# Vue + Meteor
+# Vue + Meteor GitBook
 
 ![Vue + Meteor Stack at the simplest level](.gitbook/assets/image%20%283%29.png)
 
