@@ -18,6 +18,7 @@ Several core projects are combined to make a Vue + Meteor full-stack, and to a n
 | Vue | [https://github.com/vuejs/vue](https://github.com/vuejs/vue) | [Guide](https://vuejs.org/v2/guide/) |
 | Vue + Meteor Integration Packages | [https://github.com/meteor-vue/vue-meteor](https://github.com/meteor-vue/vue-meteor) | [Repo](https://github.com/meteor-vue/vue-meteor) |
 | MongoDB | [https://github.com/mongodb/mongo](https://github.com/mongodb/mongo) | [Manual](https://docs.mongodb.com/manual/) |
+| Node |  |  |
 
 Meteor has had the most evolution since it's creation, so it's sometimes not clear to new users why Meteor is the right choice for new app development with Vue.  
 
